@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6150287-E395-4A0C-9856-B6FEA5EDD1F7}|Empl\\Empl.csproj|c:\\users\\lenovo\\desktop\\siana\\zadacha\\empl\\employers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6150287-E395-4A0C-9856-B6FEA5EDD1F7}|Empl\\Empl.csproj|solutionrelative:empl\\employers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6150287-E395-4A0C-9856-B6FEA5EDD1F7}|Empl\\Empl.csproj|c:\\users\\lenovo\\desktop\\siana\\zadacha\\empl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6150287-E395-4A0C-9856-B6FEA5EDD1F7}|Empl\\Empl.csproj|solutionrelative:empl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employers.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha\\Empl\\Employers.cs",
+              "RelativeDocumentMoniker": "Empl\\Employers.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha\\Empl\\Employers.cs",
+              "RelativeToolTip": "Empl\\Employers.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwGIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:39:25.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha\\Empl\\Program.cs",
+              "RelativeDocumentMoniker": "Empl\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha\\Empl\\Program.cs",
+              "RelativeToolTip": "Empl\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:38:55.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

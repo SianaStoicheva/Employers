@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\bin\Debug\net8.0\Empl.exe
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\bin\Debug\net8.0\Empl.deps.json
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\bin\Debug\net8.0\Empl.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\bin\Debug\net8.0\Empl.dll
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\bin\Debug\net8.0\Empl.pdb
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\Empl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\Empl.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\Empl.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\Empl.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\Empl.dll
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\refint\Empl.dll
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\Empl.pdb
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\Empl.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Zadacha\Empl\obj\Debug\net8.0\ref\Empl.dll
